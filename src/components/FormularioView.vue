@@ -372,7 +372,7 @@ export default {
     components: {
         InputEstrelas
     },
-    name: 'Formulario',
+    name: 'FormularioView',
     data: () => ({
         cursos: [
             { id: 1, curso: 'Bancos de Dados Relacionais' },
